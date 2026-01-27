@@ -16,5 +16,4 @@ yapıldığından boyutu 20200 gözükmektedir fakat biz veri setinin ilk indird
 
 👉 Ham veri seti (ZIP): https://drive.google.com/file/d/1uNxs-iMSYQ3_yp64Kuhk0Gk6Ig_aU9F4/view?usp=drive_link
 
-
 👉 Kaggle veri seti linki: https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
