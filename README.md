@@ -9,7 +9,7 @@ orijinal haliyle paylaşılmıştır.
 
 GitHub dosya boyutu sınırlamaları nedeniyle veri seti harici olarak barındırılmaktadır.
 
-#Bilgilendirme
+### Bilgilendirme
 Aynı zamanda belirtmek istediğim önemli bir nokta bulunmakta. Veri setinin 'kaggle' linkinde veri setine ekstradan eklemeler
 yapıldığından boyutu 20200 gözükmektedir fakat biz veri setinin ilk indirdiğimiz haliyle modellerimizi geliştirdik. Yani veri setimiz
 19.762 boyutunda olandır.
