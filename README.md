@@ -1,6 +1,6 @@
 # Proje Dosyaları
 
-Bu repoda projeye ait kodlar ve ham (raw) veri setine erişim bağlantısı yer almaktadır.
+Bu repoda projeye ait ham (raw) veri setine erişim bağlantısı yer almaktadır.
 
 ## Ham Veri Seti
 
